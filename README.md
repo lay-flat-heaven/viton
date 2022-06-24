@@ -2,4 +2,4 @@
 
 sth neo is incoming
 
-still train
+just a still trained model
